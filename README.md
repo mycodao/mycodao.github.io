@@ -1,2 +1,2 @@
 # mycodao.github.io
-MycoDAO.net
+MycoDAO: A DAO For Applied Mycology
