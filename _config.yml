@@ -8,6 +8,9 @@ github_username:  mycodao
 
 # Build settings
 markdown: kramdown
-theme: architect
+
+# Remote theme and plugins
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
