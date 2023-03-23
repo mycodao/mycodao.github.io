@@ -1,4 +1,6 @@
-# MycoDAO Whitepaper [myco@mycodao.net](mailto:myco@mycodao.net)
+# MycoDAO Whitepaper 
+
+Let's talk! [myco@mycodao.net](mailto:myco@mycodao.net)
 
 # I. Introduction
 
