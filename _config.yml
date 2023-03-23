@@ -1,7 +1,7 @@
 title: MycoDAO
 email: myco@mycodao.org
 description: >- # this means to ignore newlines until "baseurl:"
-  MycoDAO - A DAO for Advancement of Applied Mycology
+  Cultivating Progress: A DAO for Mycological Innovation
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yourgithubusername.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mycodao
