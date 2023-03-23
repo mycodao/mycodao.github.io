@@ -1,6 +1,6 @@
 # MycoDAO Whitepaper 
 
-Let's talk! [myco@mycodao.net](mailto:myco@mycodao.net)
+### Let's talk! [myco@mycodao.net](mailto:myco@mycodao.net)
 
 # I. Introduction
 
