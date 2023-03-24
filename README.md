@@ -1,6 +1,10 @@
-# MycoDAO Whitepaper 
+> Our mission at MycoDAO is to cultivate progress in mycological innovation by fostering a decentralized, collaborative ecosystem that empowers researchers, entrepreneurs, and enthusiasts to unlock the full potential of fungi for the betterment of our world.
 
-### Let's talk! [myco@mycodao.net](mailto:myco@mycodao.net)
+As the importance and potential of mycology become increasingly evident, MycoDAO aims to provide a platform for individuals and organizations to collaborate on projects and initiatives within the realm of fungal research and applications. In our whitepaper, we outline the key principles, governance structure, and goals of MycoDAO, demonstrating how this decentralized autonomous organization will revolutionize the way we approach mycological advancements and their real-world implications.
+
+## Let's talk! [myco@mycodao.net](mailto:myco@mycodao.net)
+
+# MycoDAO Whitepaper 
 
 # I. Introduction
 
