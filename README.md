@@ -28,7 +28,30 @@ A Decentralized Autonomous Organization (DAO) is an organization governed by its
 
 ## B. Using Aragon as the underlying platform
 
-MycoDAO will be built on Aragon, a leading platform for creating and managing DAOs on the Ethereum blockchain. Aragon provides a suite of tools and modular smart contracts, allowing for the easy creation and customization of DAOs to suit specific needs. By using Aragon, MycoDAO can ensure a secure, scalable, and flexible infrastructure for its operations and governance.
+MycoDAO will be built on [Aragon](https://aragon.org/), a leading platform for creating and managing DAOs on the Ethereum blockchain. Aragon provides a suite of tools and modular smart contracts, allowing for the easy creation and customization of DAOs to suit specific needs. By using Aragon, MycoDAO can ensure a secure, scalable, and flexible infrastructure for its operations and governance.
+
+### 1. Introduction to Aragon
+
+Aragon is an open-source project that aims to empower people to create and manage decentralized organizations on the Ethereum blockchain. With Aragon, users can create and customize DAOs, design governance systems, and build a wide range of decentralized applications. It provides a user-friendly interface, making it accessible even for those who are new to the world of DAOs and blockchain technology.
+
+### 2. Aragon's features and benefits
+
+Aragon offers several key features that make it a suitable platform for MycoDAO, including:
+
+- Flexible governance structures: Aragon allows us to create custom governance structures tailored to MycoDAO's unique requirements, enabling efficient decision-making and resource allocation processes.
+- Access control: We can define roles and permissions for different members within MycoDAO, ensuring a secure and organized governance system.
+- Transparent voting: Aragon's voting mechanisms ensure that every decision made within MycoDAO is transparent and verifiable, fostering trust among members and stakeholders.
+- Upgradeability: Aragon's modular architecture allows for seamless upgrades, ensuring that MycoDAO can adapt and evolve as new technologies and best practices emerge.
+
+### 3. How MycoDAO will utilize Aragon
+
+MycoDAO will leverage Aragon's features and capabilities to:
+
+- Establish a transparent and efficient governance system: We will use Aragon to design and implement a custom governance structure that aligns with MycoDAO's mission and objectives.
+- Manage roles and permissions: By utilizing Aragon's access control features, we can define clear roles and responsibilities for MycoDAO members, ensuring a secure and organized governance process.
+- Facilitate decision-making: Aragon's transparent voting mechanisms will enable MycoDAO members to propose, vote on, and execute decisions in a fair and verifiable manner.
+- Adapt to changing needs: As MycoDAO grows and evolves, Aragon's upgradeability features will allow us to adapt our governance system and infrastructure to accommodate new requirements and best practices.```
+
 
 ## C. The MYCO token and its role in governance
 
