@@ -50,8 +50,7 @@ MycoDAO will leverage Aragon's features and capabilities to:
 - Establish a transparent and efficient governance system: We will use Aragon to design and implement a custom governance structure that aligns with MycoDAO's mission and objectives.
 - Manage roles and permissions: By utilizing Aragon's access control features, we can define clear roles and responsibilities for MycoDAO members, ensuring a secure and organized governance process.
 - Facilitate decision-making: Aragon's transparent voting mechanisms will enable MycoDAO members to propose, vote on, and execute decisions in a fair and verifiable manner.
-- Adapt to changing needs: As MycoDAO grows and evolves, Aragon's upgradeability features will allow us to adapt our governance system and infrastructure to accommodate new requirements and best practices.```
-
+- Adapt to changing needs: As MycoDAO grows and evolves, Aragon's upgradeability features will allow us to adapt our governance system and infrastructure to accommodate new requirements and best practices.
 
 ## C. The MYCO token and its role in governance
 
